@@ -1,4 +1,4 @@
-package snake;
+package tetris;
 
 import java.awt.Point;
 

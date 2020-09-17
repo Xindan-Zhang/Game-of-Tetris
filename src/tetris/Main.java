@@ -1,4 +1,4 @@
-package snake;
+package tetris;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package snake;
+package tetris;
 
 import javax.swing.JFrame;
 import java.awt.event.ActionEvent;

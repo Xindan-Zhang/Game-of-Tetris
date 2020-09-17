@@ -1,9 +1,7 @@
-package snake;
+package tetris;
 
 import javax.swing.JPanel;
 import java.awt.*;
-import java.util.List;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
